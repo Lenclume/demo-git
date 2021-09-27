@@ -19,7 +19,7 @@ public :
 	Instrument();
 	// Destructeur virtuel pour destruction adequate
 	virtual ~Instrument();
-
+asdfjkl;asdjkl;
 	// Methodes communes a tous les intruments
 	virtual void  jouer() = 0; // Ce qui en fait une classe abstraite
 	bool estTresDesaccorde() const;
